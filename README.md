@@ -11,4 +11,4 @@ Almost a copy of [this](https://github.com/keon/algorithms/).
 
 #### Links
 * Arrays:
-  * [delete_nth](delete_nth.md)
+  * [delete_nth](docs/delete_nth.md)
