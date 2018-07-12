@@ -27,7 +27,7 @@ def delete_nth(lst, N):
     return answer
 ```
 
-But this seems to be O(n^2) We are iterating through hashmap.keys(). Not exactly the right way to
+But this seems to be O(n^2). We are iterating through hashmap.keys(). Not exactly the right way to
 implement. Let's use defaultdict. This automatically creates an entry for any key which was not
 encountered before.
 
@@ -44,3 +44,5 @@ def delete_nth(lst, N):
         answer.append(num)
     return answer
 ```
+
+[Home](../README.md)
