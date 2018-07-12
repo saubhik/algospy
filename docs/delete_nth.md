@@ -44,5 +44,3 @@ def delete_nth(lst, N):
         answer.append(num)
     return answer
 ```
-
-[Home](../README.md)
