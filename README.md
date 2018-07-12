@@ -9,6 +9,4 @@ myself something every day. This is the result of that effort.
 
 Almost a copy of [this](https://github.com/keon/algorithms/).
 
-#### Links
-* Arrays:
-  * [delete_nth](docs/delete_nth.md)
+Please visit [here](https://saubhik.github.io/algospy/).
