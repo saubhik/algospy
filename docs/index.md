@@ -11,4 +11,8 @@ Almost a copy of [this](https://github.com/keon/algorithms/).
 
 #### Links
 * Arrays:
-  * [delete_nth](delete_nth.md)
+    * [delete_nth](delete_nth.md)
+    * [flatten](flatten.md)
+
+* Heaps:
+    * [merge_sorted_arrays](merge_sorted_arrays.md)
